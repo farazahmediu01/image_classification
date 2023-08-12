@@ -1,0 +1,7 @@
+0 sofa
+1 chair
+2 table
+3 door
+4 cat
+5 stairs
+6 wall
